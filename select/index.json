@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Angel Breeze",
+  "base_artist": "川島瑞樹 (CV: 東山奈央)",
+  "createdAt": "2026-03-01T01:29:21.057129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel Breeze",
+      "artist": "川島瑞樹",
+      "has_synced": false,
+      "path": "select/01_Angel_Breeze_川島瑞樹.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel Breeze [ORT]",
+      "artist": "川島瑞樹(CV:東山奈央)",
+      "has_synced": false,
+      "path": "select/02_Angel_Breeze_[ORT]_川島瑞樹(CV_東山奈央).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel Breeze",
+      "artist": "川島瑞樹 (東山奈央)",
+      "has_synced": false,
+      "path": "select/03_Angel_Breeze_川島瑞樹_(東山奈央).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Angel Breeze",
+      "artist": "川島瑞樹（CV：東山奈央）",
+      "has_synced": false,
+      "path": "select/04_Angel_Breeze_川島瑞樹(CV_東山奈央).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Angel Breeze",
+      "artist": "川島瑞樹 (CV 東山奈央)",
+      "has_synced": false,
+      "path": "select/05_Angel_Breeze_川島瑞樹_(CV_東山奈央).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "angel breeze",
+      "artist": "川島瑞樹 (cv: 東山奈央)",
+      "has_synced": false,
+      "path": "select/06_angel_breeze_川島瑞樹_(cv__東山奈央).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angel Breeze",
+      "artist": "川島瑞樹(CV:東山奈央)",
+      "has_synced": false,
+      "path": "select/pl_01_Angel_Breeze_川島瑞樹(CV_東山奈央).txt"
+    }
+  ]
+}
